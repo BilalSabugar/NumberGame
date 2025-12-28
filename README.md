@@ -1,7 +1,3 @@
-Here is a clean, honest README that doesn’t oversell a tiny script, but still shows growth and professionalism.
-
----
-
 # 🎯 Guess The Digit – My First Python Game
 
 This is a very small terminal game I wrote as a kid when I was first learning Python.
